@@ -44,6 +44,9 @@ menu:
     - name: Blog
       url: /posts/
       weight: 2
+    - name: IT
+      url: /posts/IT/
+      weight: 2
     - name: Tags
       url: /tags/
       weight: 3
