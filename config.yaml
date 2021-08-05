@@ -29,6 +29,7 @@ params:
   showThemeSwitcher: true
   moveFooterToHeader: false
   logoAlt: "An alternative text description of the logo"
+  pluralizeListTitles:         false
   customCss:
     - css/custom_01.css
     - css/custom_02.css
