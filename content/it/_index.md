@@ -1,11 +1,11 @@
 ---
 title: "IT"
 date: 2021-08-05T06:13:11Z
-typora-root-url: ../../static/images
+typora-root-url: ../../static
 ---
 
 <figure>  
-	<img src="Flüchtlinger_RAM.png" width="200px" alt="Schlechter Wortwitz - Noch schlechterer Comic"> 
+	<img src="/images/Flüchtlinger_RAM.png" width="200px" alt="Schlechter Wortwitz - Noch schlechterer Comic"> 
 	<figcaption>Schlechter Wortwitz - Noch schlechterer Comic</figcaption>
 </figure>
 
