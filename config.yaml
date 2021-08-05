@@ -45,7 +45,7 @@ menu:
       url: /posts/
       weight: 2
     - name: IT
-      url: /posts/IT/
+      url: /tags/IT/
       weight: 2
     - name: Tags
       url: /tags/
