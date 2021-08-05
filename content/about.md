@@ -1,16 +1,13 @@
 ---
-date: "2014-04-09"
-title: "About"
+date: 2021-08-05T06:13:11Z
+title: "About Me"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Moin moin,
 
-It makes use of a variety of open source projects including:
+Ich bin Rex, Baujahr '89 und mache was mit Computern. 
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Naja unter anderem. Ich mache auch was mit Schraubendrehern oder Musikinstrumenten. Allen voran mein Klavier.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Eigentlich gehört Fotografie sowie Sport auch zu meinen Hobbys. Da zum Zeitpunkt dieser Zeilen eine globale Pandemie herrscht, betreibe ich diese aktuell weniger.
+
