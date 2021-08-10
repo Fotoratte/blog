@@ -7,11 +7,12 @@ Willkommen auf meiner kleinen Seite im Internet.
 
 Ich weiß nicht, wie oft ich schon im Leben versucht habe ein Blog zu führen. Und dann relativ schnell wieder aufgehört habe. 
 
-Nun den schauen wir mal wie lange dieser Blog hält. Hier findet ihr
+Nun den schauen wir mal wie lange dieser Blog hält. Hier findet ihr:
 
 {{< ticks >}}
-* IT-Kram, meist aus dem Bereich Programmierung
-* Kram, den ich repariert oder gebaut habe
-* Geschichten aus meinem Leben. 
+* [IT-Kram](../it/), meist aus dem Bereich Programmierung
+* [Kram](../handwerk), den ich repariert oder gebaut habe
+* Geschichten aus meinem [Leben](../leben). 
 
 {{< /ticks >}}
+

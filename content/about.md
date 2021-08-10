@@ -3,11 +3,52 @@ date: 2021-08-05T06:13:11Z
 title: "About Me"
 ---
 
-Moin moin,
+__Name:__ Rex
 
-Ich bin Rex, Baujahr '89 und mache was mit Computern. 
+__Birth:__ '89
 
-Naja unter anderem. Ich mache auch was mit Schraubendrehern oder Musikinstrumenten. Allen voran mein Klavier.
+__Class:__ Techno-Mage
 
-Eigentlich gehört Fotografie sowie Sport auch zu meinen Hobbys. Da zum Zeitpunkt dieser Zeilen eine globale Pandemie herrscht, betreibe ich diese aktuell weniger.
+__Familiars:__ Three cats and a dragon
 
+__Stats:__
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="text-align:left">Strength</td>
+<td style="text-align:center">3 / 10</td>
+<td style="text-align:left">Dexterity</td>
+<td style="text-align:center">4 / 10</td>
+</tr>
+<tr>
+<td style="text-align:left">Constitution</td>
+<td style="text-align:center">3 / 10</td>
+<td style="text-align:left">Intelligence</td>
+<td style="text-align:center">9 / 10</td>
+</tr>
+<tr>
+<td style="text-align:left">Wisdom</td>
+<td style="text-align:center">6 / 10</td>
+<td style="text-align:left">Charisma</td>
+<td style="text-align:center">4 / 10</td>
+</tr>
+</tbody>
+</table>
+
+__Skills:__
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="text-align:left">Programming</td>
+<td style="text-align:center">10 / 10</td>
+<td style="text-align:left">Repairing</td>
+<td style="text-align:center">4 / 10</td>
+</tr>
+<tr>
+<td style="text-align:left">Music</td>
+<td style="text-align:center">5 / 10</td>
+<td style="text-align:left">Social</td>
+<td style="text-align:center">2 / 10</td>
+</tr>
+</tbody>
+</table>
