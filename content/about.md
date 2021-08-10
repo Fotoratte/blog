@@ -18,7 +18,7 @@ __Stats:__
 <td style="text-align:left">Strength</td>
 <td style="text-align:center">3 / 10</td>
 <td style="text-align:left">Dexterity</td>
-<td style="text-align:center">4 / 10</td>
+<td style="text-align:center">5 / 10</td>
 </tr>
 <tr>
 <td style="text-align:left">Constitution</td>
