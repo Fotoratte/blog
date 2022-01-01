@@ -12,6 +12,4 @@ Es ist ja nicht so als hätte ich nicht genug Dinge, über die ich schreiben kö
 
 Anstehende Sachen gibs auch, wie z.b. das Fummel-Brett für den kleinen Drachen. Oder endlich mal den Page Turner fürs Klavier/iPad anzugehen.
 
-
-
-Aber durch die Depression ist meine Kraft leider sehr beschränkt und reicht stellenweise gerade so zum Leben. g
+Aber durch die Depression ist meine Kraft leider sehr beschränkt und reicht stellenweise gerade so zum Leben.
